@@ -1,0 +1,6 @@
+* [PDP-8 (wiki)](https://ja.wikipedia.org/wiki/PDP-8)
+* [PDP8Main/readme.txt](https://github.com/rrutt/PDP8/blob/master/PDP8Main/readme.txt)
+* [Hello World! Program for PDP-8 Using PAL Assembly Language](https://bigdanzblog.wordpress.com/2014/05/31/hello-world-program-for-pdp-8-using-pal-assembly-language/)
+* [The Digital Equipment Corporation PDP-8](https://homepage.cs.uiowa.edu/~jones/pdp8/man/mri.html)
+* [PDP-8 Assembly Language – Part 1](https://programmer209.wordpress.com/2011/01/30/pdp-8-assembly-language-part-1/)
+* [clausecker/8bc](https://github.com/clausecker/8bc/tree/master)
