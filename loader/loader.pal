@@ -1,0 +1,12 @@
+        *0200
+START,  CLA CLL
+        TAD I PTR
+        SNA
+        JMP LOOP
+        DCA I PTR
+        ISZ PTR
+        JMP START
+LOOP,   JMP I ADDR
+PTR,    0300
+ADDR,   0000
+				$
