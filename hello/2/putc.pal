@@ -1,0 +1,8 @@
+        *3000
+RET,    0
+        TLS
+        TSF
+        JMP .-1
+        CLA
+        JMP I RET
+        $

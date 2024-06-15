@@ -1,0 +1,24 @@
+        *200
+        AIX1=10
+        CLA
+        CLL
+        TAD CHRSTR
+        DCA AIX1
+LOOP,   NOP
+        TAD I AIX1
+        SNA
+        HLT
+        JMS I PUTC
+        JMP LOOP
+
+CHRSTR, .
+        110
+        105
+        114
+        114
+        117
+        040
+        "W;"O;"R;"L;"D;"!
+        000
+PUTC,   3000
+        $
